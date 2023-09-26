@@ -2,6 +2,8 @@
 
 This code is the implementation of the Multi-Source-Fusion-based-Stock-Selection paper: 
 
+If you have a problem understanding some code, please also refer to [code](https://github.com/jimmyg1997/NTUA-Multi-Criteria-Decision-Analysis) from co-author ```jimmyg1997```
+
 > **A generalization of multi-source fusion-based framework to stock selection**\
 > Václav Snášel, Juan D. Velásquez, Millie Pant, Dimitrios Georgiou, Lingping Kong\
 > VSB-Technical university of Ostrava\
