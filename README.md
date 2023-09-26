@@ -15,8 +15,8 @@ The paper generalizes a novel framework with a user-interactive interface for st
 
 ### Main script
 
-If you have a problem understanding some code, please also refer to [code](https://github.com/jimmyg1997/NTUA-Multi-Criteria-Decision-Analysis) from co-author ```jimmyg1997```
-
+If you have a problem following the code, please also refer to [code](https://github.com/jimmyg1997/NTUA-Multi-Criteria-Decision-Analysis) from co-author ```jimmyg1997```
+If you find an error or have comments, please contact the author. thank you
 ### Examples
 
 #### 1. Run finance_mcdm.ipynb with the initial data from the data folder:
