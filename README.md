@@ -2,8 +2,6 @@
 
 This code is the implementation of the Multi-Source-Fusion-based-Stock-Selection paper: 
 
-If you have a problem understanding some code, please also refer to [code](https://github.com/jimmyg1997/NTUA-Multi-Criteria-Decision-Analysis) from co-author ```jimmyg1997```
-
 > **A generalization of multi-source fusion-based framework to stock selection**\
 > Václav Snášel, Juan D. Velásquez, Millie Pant, Dimitrios Georgiou, Lingping Kong\
 > VSB-Technical university of Ostrava\
@@ -16,6 +14,8 @@ If you have a problem understanding some code, please also refer to [code](https
 The paper generalizes a novel framework with a user-interactive interface for stock selection problems based on multi-source data fusion and decision-level fusion to enhance reliability limited by the narrow criteria performance and the strength of a model overcoming the weakness of a single-performed model. This framework benefits the time-series prediction and decision-making study. Besides, we propose adopting dynamic time warping to assist a task-learning process by customizing a loss function that improves the accuracy of data prediction. The experiment shows that the proposed method reduces the prediction log error by 6.3\% on average and decreases the warping cost by 5.6\% on average over all cases of real-situation data. Finally, we illustrate the proposed framework by implementing it in a real-world stock data selection. The results are practical and effective, further justified through a detailed ablation study. 
 
 ### Main script
+
+If you have a problem understanding some code, please also refer to [code](https://github.com/jimmyg1997/NTUA-Multi-Criteria-Decision-Analysis) from co-author ```jimmyg1997```
 
 ### Examples
 
