@@ -1,0 +1,2558 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 72,
+				"label": "adaboost",
+				"x": 0.4397,
+				"y": 0.0681,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4000
+				}
+			},
+			{
+				"id": 75,
+				"label": "adaptive boosting",
+				"x": 0.1157,
+				"y": 0.2905,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 151,
+				"label": "analytical hierarchy process",
+				"x": -0.1286,
+				"y": 0.4115,
+				"cluster": 5,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000
+				}
+			},
+			{
+				"id": 158,
+				"label": "anfis",
+				"x": -0.5418,
+				"y": 0.3785,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 162,
+				"label": "ann-ga",
+				"x": -0.5551,
+				"y": 0.3637,
+				"cluster": 8,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 205,
+				"label": "artificial neural network",
+				"x": -0.1501,
+				"y": -0.5827,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4000
+				}
+			},
+			{
+				"id": 209,
+				"label": "artificial neural-network",
+				"x": -0.0555,
+				"y": -0.5712,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.1250
+				}
+			},
+			{
+				"id": 210,
+				"label": "artificial neural-networks",
+				"x": 0.0819,
+				"y": -0.0828,
+				"cluster": 11,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 282,
+				"label": "bayesian optimization",
+				"x": 0.2763,
+				"y": -0.1993,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.7333
+				}
+			},
+			{
+				"id": 465,
+				"label": "catboost",
+				"x": 0.3456,
+				"y": 0.1567,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 8.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 611,
+				"label": "combination",
+				"x": -0.6982,
+				"y": -0.3974,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000
+				}
+			},
+			{
+				"id": 700,
+				"label": "convolutional neural networks",
+				"x": -0.1162,
+				"y": -0.3861,
+				"cluster": 9,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 827,
+				"label": "decision tree",
+				"x": 0.0552,
+				"y": 0.1310,
+				"cluster": 2,
+				"weights": {
+					"Links": 20.0000,
+					"Total link strength": 38.0000,
+					"Occurrences": 16.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.3750
+				}
+			},
+			{
+				"id": 828,
+				"label": "decision trees",
+				"x": 0.2395,
+				"y": 0.3565,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 833,
+				"label": "decomposition",
+				"x": -0.1062,
+				"y": -0.4293,
+				"cluster": 9,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.3333
+				}
+			},
+			{
+				"id": 844,
+				"label": "deep learning",
+				"x": 0.0250,
+				"y": -0.7989,
+				"cluster": 13,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 25.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4762
+				}
+			},
+			{
+				"id": 937,
+				"label": "discrete wavelet transforms",
+				"x": -0.8632,
+				"y": 0.7717,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 964,
+				"label": "distribution network",
+				"x": -0.8544,
+				"y": 0.7801,
+				"cluster": 12,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 965,
+				"label": "district",
+				"x": 0.1375,
+				"y": 0.4809,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000
+				}
+			},
+			{
+				"id": 1021,
+				"label": "dynamic analysis",
+				"x": -0.3954,
+				"y": 0.2879,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 1112,
+				"label": "empirical mode decomposition",
+				"x": -0.6562,
+				"y": -0.4053,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.8000
+				}
+			},
+			{
+				"id": 1128,
+				"label": "ensemble",
+				"x": -0.0662,
+				"y": -0.3601,
+				"cluster": 9,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 1130,
+				"label": "ensemble classifier",
+				"x": 0.0582,
+				"y": -0.9549,
+				"cluster": 13,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 1132,
+				"label": "ensemble learning",
+				"x": -0.4038,
+				"y": -0.4691,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 32.0000,
+					"Occurrences": 25.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.3600
+				}
+			},
+			{
+				"id": 1176,
+				"label": "evapotranspiration",
+				"x": 0.4259,
+				"y": 0.3125,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000
+				}
+			},
+			{
+				"id": 1199,
+				"label": "explainable artificial intelligence",
+				"x": 0.4822,
+				"y": -0.3089,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.6000
+				}
+			},
+			{
+				"id": 1205,
+				"label": "exposure",
+				"x": 0.3298,
+				"y": -0.6755,
+				"cluster": 7,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 1300,
+				"label": "feature transformation",
+				"x": -0.1319,
+				"y": 0.4358,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000
+				}
+			},
+			{
+				"id": 1308,
+				"label": "fertility",
+				"x": -0.0652,
+				"y": 2.1102,
+				"cluster": 15,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000
+				}
+			},
+			{
+				"id": 1389,
+				"label": "forest",
+				"x": -0.6215,
+				"y": -0.4482,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000
+				}
+			},
+			{
+				"id": 1409,
+				"label": "frequency ratio",
+				"x": -0.0293,
+				"y": 0.1369,
+				"cluster": 5,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 24.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000
+				}
+			},
+			{
+				"id": 1421,
+				"label": "fusion",
+				"x": -0.1946,
+				"y": -0.3779,
+				"cluster": 9,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.3333
+				}
+			},
+			{
+				"id": 1426,
+				"label": "fuzzy inference system",
+				"x": -0.1807,
+				"y": 0.5085,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 1428,
+				"label": "fuzzy multicriteria",
+				"x": 0.3164,
+				"y": 0.0057,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 1478,
+				"label": "genetic algorithm",
+				"x": -0.1432,
+				"y": 0.1777,
+				"cluster": 5,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 39.0000,
+					"Occurrences": 22.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.7273
+				}
+			},
+			{
+				"id": 1480,
+				"label": "genetic algorithms",
+				"x": -0.7406,
+				"y": 0.0027,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 1490,
+				"label": "geographically weighted regression",
+				"x": 1.9486,
+				"y": -0.7653,
+				"cluster": 16,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000
+				}
+			},
+			{
+				"id": 1525,
+				"label": "gradient",
+				"x": 0.2601,
+				"y": 0.5244,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.5000
+				}
+			},
+			{
+				"id": 1557,
+				"label": "grid search",
+				"x": 0.3263,
+				"y": -0.1045,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 1678,
+				"label": "hybrid",
+				"x": -0.3672,
+				"y": -0.2450,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 1683,
+				"label": "hybrid model",
+				"x": 0.0761,
+				"y": -0.3972,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.1429
+				}
+			},
+			{
+				"id": 1696,
+				"label": "hyper-parameter optimization",
+				"x": 0.3625,
+				"y": -0.0942,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.8000
+				}
+			},
+			{
+				"id": 1707,
+				"label": "hyperspectral",
+				"x": 0.2333,
+				"y": 0.4397,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.2500
+				}
+			},
+			{
+				"id": 1754,
+				"label": "imbalanced data",
+				"x": -0.3840,
+				"y": 0.0548,
+				"cluster": 6,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.1000
+				}
+			},
+			{
+				"id": 1857,
+				"label": "interpolation",
+				"x": 0.3892,
+				"y": 0.3003,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000
+				}
+			},
+			{
+				"id": 1876,
+				"label": "intrusion detection system",
+				"x": -0.2000,
+				"y": -0.0207,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.7500
+				}
+			},
+			{
+				"id": 1926,
+				"label": "kalman filter",
+				"x": -0.3647,
+				"y": -0.1432,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.6667
+				}
+			},
+			{
+				"id": 2040,
+				"label": "light gradient boosting machine (lightgbm)",
+				"x": 0.3495,
+				"y": 0.3031,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000
+				}
+			},
+			{
+				"id": 2120,
+				"label": "lstm",
+				"x": 0.2303,
+				"y": -0.5735,
+				"cluster": 7,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 27.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6842
+				}
+			},
+			{
+				"id": 2211,
+				"label": "mellitus",
+				"x": 0.6152,
+				"y": -0.0505,
+				"cluster": 21,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 2373,
+				"label": "multi-class classification",
+				"x": -0.2259,
+				"y": -0.7045,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000
+				}
+			},
+			{
+				"id": 2397,
+				"label": "multilayer perceptron",
+				"x": -0.4818,
+				"y": -0.2249,
+				"cluster": 10,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 2471,
+				"label": "neural-network",
+				"x": -0.3153,
+				"y": 0.1955,
+				"cluster": 8,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 47.0000,
+					"Occurrences": 35.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5429
+				}
+			},
+			{
+				"id": 2473,
+				"label": "neural-networks",
+				"x": -0.2858,
+				"y": -0.1346,
+				"cluster": 10,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 43.0000,
+					"Occurrences": 27.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.7037
+				}
+			},
+			{
+				"id": 2541,
+				"label": "oblique random forests",
+				"x": 0.2603,
+				"y": 0.5697,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000
+				}
+			},
+			{
+				"id": 2567,
+				"label": "online learning",
+				"x": -0.7422,
+				"y": -0.0167,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 2575,
+				"label": "open-pit mine",
+				"x": 0.0586,
+				"y": -0.5095,
+				"cluster": 4,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 2619,
+				"label": "oversampling",
+				"x": -0.1791,
+				"y": -0.6974,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000
+				}
+			},
+			{
+				"id": 2620,
+				"label": "oversampling technique",
+				"x": -0.1909,
+				"y": 0.5706,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 2635,
+				"label": "parallel processing",
+				"x": 0.3923,
+				"y": -0.1181,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000
+				}
+			},
+			{
+				"id": 2650,
+				"label": "particle swarm optimization",
+				"x": -0.5780,
+				"y": -0.0226,
+				"cluster": 6,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 23.0000,
+					"Occurrences": 15.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4000
+				}
+			},
+			{
+				"id": 2669,
+				"label": "pca",
+				"x": -0.6846,
+				"y": -0.4770,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.7500
+				}
+			},
+			{
+				"id": 2858,
+				"label": "principal component analysis",
+				"x": -0.6769,
+				"y": -0.3636,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000
+				}
+			},
+			{
+				"id": 2923,
+				"label": "pso",
+				"x": -0.5151,
+				"y": 0.0895,
+				"cluster": 6,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000
+				}
+			},
+			{
+				"id": 2925,
+				"label": "pso-xgboost",
+				"x": -0.4285,
+				"y": -0.0320,
+				"cluster": 6,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4000
+				}
+			},
+			{
+				"id": 2980,
+				"label": "random forest",
+				"x": 0.1433,
+				"y": 0.0727,
+				"cluster": 1,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 77.0000,
+					"Occurrences": 45.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.7333
+				}
+			},
+			{
+				"id": 2983,
+				"label": "random forests",
+				"x": 0.2244,
+				"y": 0.5583,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.8571
+				}
+			},
+			{
+				"id": 3031,
+				"label": "recursive feature elimination",
+				"x": 0.3814,
+				"y": 0.0216,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000
+				}
+			},
+			{
+				"id": 3209,
+				"label": "salp swarm algorithm",
+				"x": -0.2856,
+				"y": -0.9779,
+				"cluster": 22,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000
+				}
+			},
+			{
+				"id": 3336,
+				"label": "shap",
+				"x": 0.0624,
+				"y": -0.2725,
+				"cluster": 4,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 30.0000,
+					"Occurrences": 19.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.9474
+				}
+			},
+			{
+				"id": 3340,
+				"label": "shap method",
+				"x": -0.2030,
+				"y": 0.5666,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 3342,
+				"label": "shap value",
+				"x": 1.8208,
+				"y": 1.0221,
+				"cluster": 14,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 3353,
+				"label": "shapley additive explanations",
+				"x": 0.4212,
+				"y": -0.2545,
+				"cluster": 7,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 7.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.2857
+				}
+			},
+			{
+				"id": 3386,
+				"label": "simulations",
+				"x": 1.8237,
+				"y": 1.0282,
+				"cluster": 14,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 3448,
+				"label": "softened truss",
+				"x": -1.9937,
+				"y": 0.8693,
+				"cluster": 17,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 3501,
+				"label": "spatial-distribution",
+				"x": 0.0329,
+				"y": -0.0788,
+				"cluster": 11,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000
+				}
+			},
+			{
+				"id": 3640,
+				"label": "support vector machine",
+				"x": -0.0889,
+				"y": -0.0211,
+				"cluster": 11,
+				"weights": {
+					"Links": 21.0000,
+					"Total link strength": 53.0000,
+					"Occurrences": 18.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6667
+				}
+			},
+			{
+				"id": 3819,
+				"label": "transfer learning method",
+				"x": 2.0816,
+				"y": 0.0305,
+				"cluster": 18,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000
+				}
+			},
+			{
+				"id": 4036,
+				"label": "wavelet transform",
+				"x": -0.8436,
+				"y": 0.7599,
+				"cluster": 12,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3333
+				}
+			},
+			{
+				"id": 4048,
+				"label": "weighted ensemble module",
+				"x": 0.0833,
+				"y": -0.9407,
+				"cluster": 13,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			},
+			{
+				"id": 4054,
+				"label": "weights-of-evidence",
+				"x": -0.4595,
+				"y": -0.5553,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 4112,
+				"label": "xgboost",
+				"x": -0.0604,
+				"y": -0.2197,
+				"cluster": 7,
+				"weights": {
+					"Links": 59.0000,
+					"Total link strength": 289.0000,
+					"Occurrences": 522.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.3985
+				}
+			},
+			{
+				"id": 4116,
+				"label": "xgboost based shap",
+				"x": 1.4343,
+				"y": -1.5651,
+				"cluster": 19,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000
+				}
+			},
+			{
+				"id": 4119,
+				"label": "xgboost decision tree",
+				"x": 0.9118,
+				"y": 1.8842,
+				"cluster": 20,
+				"weights": {
+					"Links": 0.0000,
+					"Total link strength": 0.0000,
+					"Occurrences": 1.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 72,
+				"target_id": 465,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 3031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 72,
+				"target_id": 4112,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 827,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 828,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 827,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 1300,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 1409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 1426,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 1478,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 158,
+				"target_id": 162,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 158,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 158,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 162,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 162,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 205,
+				"target_id": 209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 205,
+				"target_id": 844,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 205,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 205,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 205,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 1683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 2575,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 2619,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 2980,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 3336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 4112,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 827,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 1409,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 1557,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 2980,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 3336,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 3501,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 3640,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 4112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 827,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 1409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 1478,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 1557,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 1696,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 2120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 3336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 3353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 282,
+				"target_id": 4112,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 1857,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 2040,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 2650,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 3353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 465,
+				"target_id": 4112,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 611,
+				"target_id": 1112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 611,
+				"target_id": 2858,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 700,
+				"target_id": 833,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 700,
+				"target_id": 1128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 700,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 700,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 828,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 1132,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 1409,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 1426,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 1428,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 1478,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 1557,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 2925,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 2980,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 3031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 3336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 3640,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 827,
+				"target_id": 4112,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 828,
+				"target_id": 1525,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 828,
+				"target_id": 1707,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 828,
+				"target_id": 2040,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 828,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 828,
+				"target_id": 2980,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 828,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 828,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 833,
+				"target_id": 1128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 833,
+				"target_id": 1421,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 833,
+				"target_id": 2120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 833,
+				"target_id": 4112,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 1130,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 1132,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 2120,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 2471,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 4048,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 844,
+				"target_id": 4112,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 964,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 937,
+				"target_id": 4036,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 964,
+				"target_id": 4036,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 965,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 965,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 965,
+				"target_id": 2983,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 965,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1021,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1112,
+				"target_id": 1389,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1112,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1112,
+				"target_id": 2858,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1112,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1112,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1128,
+				"target_id": 1683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1128,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1128,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1128,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1128,
+				"target_id": 4112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1130,
+				"target_id": 4048,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1130,
+				"target_id": 4112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 1389,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 1409,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 1478,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 2373,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 2650,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 2669,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 2925,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 2980,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 3336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 3640,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 4054,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1132,
+				"target_id": 4112,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 1176,
+				"target_id": 1857,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1176,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1199,
+				"target_id": 3353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1199,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1205,
+				"target_id": 2120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1205,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1300,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1389,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1409,
+				"target_id": 1426,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1409,
+				"target_id": 1478,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1409,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1409,
+				"target_id": 2473,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1409,
+				"target_id": 2980,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1409,
+				"target_id": 3336,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1409,
+				"target_id": 3640,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1409,
+				"target_id": 4112,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1421,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1421,
+				"target_id": 4112,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1426,
+				"target_id": 1478,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1426,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1426,
+				"target_id": 2620,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1426,
+				"target_id": 3340,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1428,
+				"target_id": 1557,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1428,
+				"target_id": 2980,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1428,
+				"target_id": 3031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1428,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1428,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 1707,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 1754,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 2120,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 2471,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 2473,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 2650,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 2858,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 2980,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 3640,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1478,
+				"target_id": 4112,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 1480,
+				"target_id": 2567,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1480,
+				"target_id": 2650,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1480,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1525,
+				"target_id": 1707,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1525,
+				"target_id": 2541,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1525,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1525,
+				"target_id": 2983,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1525,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
+				"target_id": 1683,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
+				"target_id": 1696,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
+				"target_id": 2635,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
+				"target_id": 3031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1557,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1678,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1678,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1683,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1683,
+				"target_id": 2575,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1683,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1683,
+				"target_id": 4112,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 2635,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 3353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1696,
+				"target_id": 4112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1707,
+				"target_id": 2980,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1707,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1754,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1754,
+				"target_id": 2925,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1754,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1754,
+				"target_id": 4112,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1857,
+				"target_id": 2040,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1857,
+				"target_id": 2471,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1857,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1876,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1876,
+				"target_id": 4112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1926,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2120,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2120,
+				"target_id": 3353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2120,
+				"target_id": 4112,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 2211,
+				"target_id": 2980,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2211,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2373,
+				"target_id": 2619,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2373,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2397,
+				"target_id": 2473,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2397,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2471,
+				"target_id": 2650,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2471,
+				"target_id": 2923,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2471,
+				"target_id": 2980,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2471,
+				"target_id": 3640,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2471,
+				"target_id": 4036,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2471,
+				"target_id": 4112,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 2473,
+				"target_id": 2650,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2473,
+				"target_id": 2858,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2473,
+				"target_id": 2925,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2473,
+				"target_id": 2980,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2473,
+				"target_id": 3336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2473,
+				"target_id": 3353,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2473,
+				"target_id": 3640,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2473,
+				"target_id": 4112,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 2541,
+				"target_id": 2983,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2567,
+				"target_id": 2650,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2567,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2575,
+				"target_id": 3336,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2575,
+				"target_id": 4112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2619,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2620,
+				"target_id": 3340,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2650,
+				"target_id": 2858,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2650,
+				"target_id": 2923,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2650,
+				"target_id": 2925,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2650,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2650,
+				"target_id": 4112,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 2669,
+				"target_id": 2858,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2669,
+				"target_id": 4112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2858,
+				"target_id": 4112,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2923,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2923,
+				"target_id": 4112,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2925,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2980,
+				"target_id": 3031,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2980,
+				"target_id": 3336,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2980,
+				"target_id": 3640,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 2980,
+				"target_id": 4112,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 2983,
+				"target_id": 4112,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3031,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3209,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3336,
+				"target_id": 3640,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3336,
+				"target_id": 4112,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 3342,
+				"target_id": 3386,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3353,
+				"target_id": 4112,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3501,
+				"target_id": 3640,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3501,
+				"target_id": 4112,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3640,
+				"target_id": 4112,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 4048,
+				"target_id": 4112,
+				"strength": 2.0000
+			}
+		]
+	}
+}
