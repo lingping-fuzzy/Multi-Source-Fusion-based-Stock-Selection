@@ -2,6 +2,15 @@
 
 This code is the implementation of the Multi-Source-Fusion-based-Stock-Selection paper: 
 
+It is not a very detailed instruction. Please go through two tutorial- files *finance-main-start.ipynb* and *LSTM-version-tutuorial.ipynb*, 
+these two files need the source data (shared), 
+
+Then, if you want to perform your own experiment and need your data, you can follow the paper (data extraction) to download more data. 
+
+We applied three source data from [Yahoo.com](https://finance.yahoo.com/portfolio), [alphavantage](https://www.alphavantage.co/support/#api-key), 
+then [investing.com](https://www.investing.com)
+how to download the data, you can find from the paper
+
 > **A generalization of multi-source fusion-based framework to stock selection**\
 > Václav Snášel, Juan D. Velásquez, Millie Pant, Dimitrios Georgiou, Lingping Kong\
 > VSB-Technical university of Ostrava\
