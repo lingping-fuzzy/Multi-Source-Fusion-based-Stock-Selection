@@ -2,8 +2,11 @@
 
 This code is the implementation of the Multi-Source-Fusion-based-Stock-Selection paper: 
 
-It is not a very detailed instruction. Please go through two tutorial- files *finance-main-start.ipynb* and *LSTM-version-tutuorial.ipynb*, 
-these two files need the source data (shared), 
+It is not a very detailed instruction. Please go through two tutorial- files 
+#### 1. *finance-main-start.ipynb* and
+#### 2. *LSTM-version-tutuorial.ipynb*, 
+
+These two files need the source data (shared in the /data folder), 
 
 Then, if you want to perform your own experiment and need your data, you can follow the paper (data extraction) to download more data. 
 
